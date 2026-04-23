@@ -70,7 +70,7 @@ Your sensitive data is protected using industry-standard practices:
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/whitebee/mspt.git
+git clone https://github.com/Whitebee7/mspt.git
 cd mspt
 
 # Install dependencies
